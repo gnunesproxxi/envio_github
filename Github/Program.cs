@@ -7,6 +7,9 @@ namespace Github
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Boa tarde!");
+            Console.ReadLine();
+
         }
     }
 }
